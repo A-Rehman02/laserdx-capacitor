@@ -1,0 +1,8 @@
+{
+  "appId": "com.acmederm.laserdx",
+  "appName": "LaserDx",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "automatic"
+  }
+}
